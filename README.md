@@ -22,4 +22,10 @@ Projects and Learning Journey.
     <td>Present</td>
     <td></td>
   </tr>
+  <tr>
+    <td>Angular 8</td>
+    <td>24 Aug 2023</td>
+    <td>Present</td>
+    <td></td>
+  </tr>
 </table>
