@@ -17,7 +17,7 @@ Projects and Learning Journey.
     </td>
   </tr>
   <tr>
-    <td>Java8</td>
+    <td>Java 8</td>
     <td>24 Aug 2023</td>
     <td>Present</td>
     <td></td>
