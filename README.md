@@ -20,7 +20,7 @@ Projects and Learning Journey.
     <td>Java 8</td>
     <td>24 Aug 2023</td>
     <td>Present</td>
-    <td></td>
+    <td><a href="https://github.com/paultimothy12/Riverstone-Java8">Java8</a></td>
   </tr>
   <tr>
     <td>Angular 8</td>
